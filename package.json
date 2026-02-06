@@ -1,0 +1,25 @@
+{
+  "name": "dsa-javascript-journey",
+  "version": "1.0.0",
+  "description": "My Data Structures and Algorithms learning journey in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "new": "node create-problem.js",
+    "test": "node",
+    "help": "echo '\n📚 Available Commands:\n  npm run new    - Create a new problem folder\n  npm run help   - Show this help\n'"
+  },
+  "keywords": [
+    "dsa",
+    "data-structures",
+    "algorithms",
+    "javascript",
+    "learning",
+    "interview-prep"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/DSA-JavaScript.git"
+  }
+}
